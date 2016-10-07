@@ -1,1 +1,1 @@
-# This is a program made to give a randomizes 2 slots and lets the user choose to continue or not
+# This is a program made to give a randomizes 3 slots and lets the user choose to continue or not
