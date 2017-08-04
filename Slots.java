@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.Random;
 /**
  *
- * @author SMJR
+ * @author Peggy Fisher
  */
 public class Slots 
 {
